@@ -1,0 +1,142 @@
+* {
+    text-align: center;
+    align-items: center;
+
+
+}
+div{
+    align-items: center;
+}
+
+table {
+    border: black;
+    margin: 200px;
+
+}
+
+#red {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+
+}
+
+#green {
+    background-color:green;
+    width: 150px;
+}
+
+#blue {
+    background-color: rgb(11, 78, 201);
+    ;
+
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+.inner_red {
+
+    background-color: white;
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    margin: 30px;
+    
+
+}
+
+.inner_green {
+    background-color: white;
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+
+    margin: 30px;
+
+}
+
+.inner_blue {
+    background-color: white;
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+
+    margin: 30px;
+
+}
+
+.inner_yellow {
+    background-color: white;
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+
+    margin: 30px;
+}
+
+.box {
+    /* border-radius: 50%; */
+    border: 1px solid black;
+    background-color: red;
+    /* margin-right:10px;
+    margin-left:30px;
+    margin-bottom: -20px; */
+    height: 40px;
+    width: 40px;
+    margin: auto;
+
+}
+
+.outer-box {
+    margin: 40px;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: -10px;
+    margin-top: 25px;
+   
+}
+.box-y{
+    border: 1px solid black;
+    background-color: yellow;
+    height: 40px;
+    width: 40px;
+    margin: auto;
+
+}
+.box-g{
+    border: 1px solid black;
+    background-color: green;
+    height: 40px;
+    width: 40px;
+    margin: auto;
+}
+.box-b{
+    border: 1px solid black;
+    background-color: rgb(11, 78, 201);
+    height: 40px;
+    width: 40px;
+    margin: auto;
+}
+#box-size{
+    height: 30px;
+    width: 30px;
+}
+.color{
+    background-color: red;
+}
+.color1{
+    background-color: green;
+}
+.color2{
+    background-color: yellow;
+}
+.color3{
+    background-color: rgb(11, 78, 201);
+}
+.winner{
+    width: 200px;
+    height: 200px;
+}
